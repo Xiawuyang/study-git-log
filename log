@@ -1,0 +1,9 @@
+1 create you new repository
+	mkdir <newfoldname>
+	cd <newfoldname>
+	git init
+
+2 you could clone a repository from github or build new one in local
+
+	1) git status -------to check out files in what kind of status
+	2) git add ---------------untracked(new file)->unstage
